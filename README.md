@@ -19,7 +19,7 @@ We explore the dataset, clean it, visualize important patterns, and build an int
 | 🧾 Total Sales         | $233           |
 | 👥 Total Customers     | 3900           |
 
---
+
 ## 🛠 Tools Used
 
 | Tool       | 
@@ -32,8 +32,11 @@ We explore the dataset, clean it, visualize important patterns, and build an int
 | Power BI   | 
 
 
-## 📁 Files Included 
-– shopping_trends.csv - Dataset
-- Shopping trends.sql - SQL script to read and explore the data
-- Shopping trends.ipynb – Python notebook for data exploration & visualization 
-- shopping trends.pbix – Power BI dashboard for KPI reporting
+### 📁 Files Included
+| 📂 File Name            | 📃 Description                       |
+| ----------------------- | ------------------------------------ |
+| `shopping_trends.csv`   | Dataset (raw purchase data)          |
+| `Shopping trends.sql`   | SQL script to read the data          |
+| `Shopping trends.ipynb` | Python notebook for data exploration |
+| `Shopping trends.pbix`  | Power BI dashboard file              |
+
