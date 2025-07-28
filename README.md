@@ -5,13 +5,13 @@ This project focuses on analyzing shopping trends using Python and Power BI. The
 
 We explore the dataset, clean it, visualize important patterns, and build an interactive Power BI dashboard to report on KPIs such as total sales, customer segmentation, payment preferences, and more.
 
---
+
 ## 🔍 Project Components
 ✅ Data Cleaning & Preprocessing
 ✅ Exploratory Data Analysis (EDA)
 ✅ Interactive Visualizations using Power BI
 
---
+
 ## 📈 Key Performance Indicators (KPIs)
 
 | Metric                 | Value (Sample) |
@@ -31,7 +31,7 @@ We explore the dataset, clean it, visualize important patterns, and build an int
 | Seaborn    | 
 | Power BI   | 
 
---
+
 ## 📁 Files Included 
 – shopping_trends.csv - Dataset
 - Shopping trends.sql - SQL script to read and explore the data
